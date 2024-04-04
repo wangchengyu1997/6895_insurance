@@ -6,8 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-./X509-cert.pem
-
 # Distribution / packaging
 .Python
 /out/
